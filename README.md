@@ -3,7 +3,7 @@
 ## 🏆 Project Category: Open Project
 
 ### 👥 Team Members:
-- **Ahbab Abeer**
+- **Ahbab**
 - **Ahmad**
 - **Nolan**
 - **Richard**
