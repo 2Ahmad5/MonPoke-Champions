@@ -26,3 +26,10 @@ We’ve successfully created this GitHub repository to manage our project’s co
 
 ### Team Name Finalized:
 We proudly settled on the team name **MonPoke Champions** to represent our project moving forward.
+
+
+
+### What we plan to do next:
+- Create Databases in PostGres or mySQL
+- Set up skeleton of the website
+
