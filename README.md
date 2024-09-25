@@ -7,7 +7,7 @@
 - **Ahmad**
 - **Nolan**
 - **Richard**
-- **SJ**
+- **Seung Hyun**
 
 ---
 
