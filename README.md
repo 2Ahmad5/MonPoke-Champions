@@ -1,5 +1,8 @@
 # MonPoke Champions
 
+Milestone 3 Demo Link: https://duke.box.com/s/wuxnr3hqu1n7zs9cof2umpuv92f88hj6
+Prototype Code Repo: https://gitlab.oit.duke.edu/ndp25/cs-316-proj
+
 ## 🏆 Project Category: Open Project
 
 ### 👥 Team Members:
