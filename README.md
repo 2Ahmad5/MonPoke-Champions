@@ -24,17 +24,17 @@
   - Ability to view, and update their profile picture
   - Many UI improvements on many webpages
  
--**Nolan** has implemented:
+- **Nolan** has implemented:
   -Trade system: Users can request and offer cards in a public place where other users can take the trade
-  -Improved UI for the shop, and adding credit card info.
+  -Improved UI for the shop and added credit card info.
   -Bought cards will appear on the screen with their rarity
 
--**AHmad** has implemented:
+- **AHmad** has implemented:
   -A way to compare monpoke
   -Beautiful UI on displaying MonPoke stats
   -Associated a picture with every monpoke
 
--**SJ has implemented**:
+- **SJ has implemented**:
   -A forum where users can post, reply, and like.
 
 
