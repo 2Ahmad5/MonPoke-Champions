@@ -53,6 +53,12 @@ A variety of MonPoke will reside in this database
   - Can add currency with a basic form submission at the moment
   - Users can use “real” money to buy additional currency. It will require the user to add their payment info and then the in-game currency can be added to their balance. For the purpose of the project, we will not deal with real credit cards
   - When a user purchases a card, the card they drew pops up with the color of the rarity.
+  - Drawn cards from the store are chosen based on the rarity, higher chances to receive common > uncommon > rare > epic > mythic ~= legendary > relic
+  - Added a trade feature
+  - users can request a trade by inputting a wanted card and inputting the desired card
+  - checks db for valid cards and that the user owns the card they offer
+  - can accept trades, checks db that user owns the requested monpoke and removes the card from inventories and trade from db
+  - changed frontend design of store
 
 - **Seung Hyun** has implemented:
   - Provide a way for user to view their profile. It will show the account number, MonPoke currency, name as well as collected MonPoke and match history. 
