@@ -1,7 +1,7 @@
 # MonPoke Champions
 
-# Milestone 4 Demo Link: https://duke.box.com/s/zz702p8o736i7ts0aukh89xnqg13ot7g
-# Prototype Code Repo: https://gitlab.oit.duke.edu/ndp25/cs-316-proj
+# Final Video Link: https://duke.box.com/s/zz702p8o736i7ts0aukh89xnqg13ot7g
+# Code Repo: https://gitlab.oit.duke.edu/ndp25/cs-316-proj
 # Main Repo: https://github.com/2Ahmad5/MonPoke-Champions
 
 ## 🏆 Project Category: Open Project
@@ -15,7 +15,7 @@
 
 ---
 
-## 🛠 What We've Accomplished since Milestone 3:
+## 🛠 What We've Accomplished since Milestone 4:
 
 ### Role Clarification:
 Each team member has clearly defined their roles, ensuring smooth collaboration and focused efforts.
