@@ -1,6 +1,6 @@
 # MonPoke Champions
 
-# Final Video Link: https://duke.box.com/s/zz702p8o736i7ts0aukh89xnqg13ot7g
+# Final Video Link: https://youtu.be/NL2qo5UKaHg
 # Code Repo: https://gitlab.oit.duke.edu/ndp25/cs-316-proj
 # Main Repo: https://github.com/2Ahmad5/MonPoke-Champions
 
